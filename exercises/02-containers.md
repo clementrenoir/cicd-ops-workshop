@@ -10,6 +10,7 @@ You only change the `Dockerfile`, the workflow files in `.github/workflows/`, an
 
 ## Goals
 
+- TEST EXERCISE
 - Control what goes into an image.
 - Push an image to a registry, and find it there.
 - Run a job in an image from the registry, instead of from the code.
